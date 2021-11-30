@@ -1,0 +1,34 @@
+{
+    "Zulrah":[
+        {
+            "Item": "Clue Scroll(Elite)",
+            "Quantity": 0
+        },
+        {
+             "Item": "Clue Scroll(Elite) Actual (1/75)",
+             "Quantity": 4
+        }
+    ],
+    
+    "TzTok-Jad":[
+        {
+            "Item": "Jad Pet",
+            "Quantity": 2.4
+        },
+        {
+            "Item": "Jad Pet Actual (1/200)",
+            "Quantity": 2
+        }
+    ],
+    
+    "TzKal-Zuk":[
+        {
+            "Item": "TzKal-Zuk",
+            "Quantity": 2.8
+        },
+        {
+            "Item": "TzKal-Zuk Actual (1/100)",
+            "Quantity": 4
+        }
+    ]
+}
